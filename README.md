@@ -1,2 +1,2 @@
 # Simple-Status-Bot
-A simple status bot for discord written in Discord.js
+We have created htis repo to provide a jump start or status bot for people looing to create a discord bot. 
