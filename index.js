@@ -17,4 +17,5 @@ client.once('ready', () => {
 
 
 // Login to Discord with your client's token
+// TOken can be found in /config/token.json
 client.login(token);
