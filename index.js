@@ -10,9 +10,10 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 // Also allows your bot to have a status message like playing watching etc
 client.once('ready', () => {
 	console.log('Ready!');
-  client.user.setPresence({ activities: [{ name: '/status | Coming Soon' }], status: 'idle' });
+  client.user.setPresence({ activities: [{ name: 'your-status-here' }], status: 'idle' });
 });
-
+//Can be online, idle, dnd
+//status can be anything you want just keep it in the ''
 
 
 // Login to Discord with your client's token
