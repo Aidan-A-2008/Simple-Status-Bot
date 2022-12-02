@@ -1,7 +1,7 @@
 // Sample Discord Status bot By PiglinPlayz & Play Piglin Network. Please keep credit in message above when using this repo.
 // Require the necessary discord.js classes
 const { Client, Intents } = require('discord.js');
-const { token } = require('./config.json');
+const { token } = require('./config/token.json');
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
