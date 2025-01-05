@@ -1,4 +1,4 @@
-
+# DUE TO THIS PROJECT NOT BEING UPDATED FOR 2-3 YEARRS, THIS PROJECT/REPO IS NOW ARCHIVED AND WILL NO LONGER BE WOKRED ON!
 # Simple Status Bot
 
 A Node.JS 16 discord bot code that adds `PLAYING | WATCHING | STREAMING` status to your bot or bots code. This is more of a code sample so feel free to use this in your projects, or feel free to use this as a way to jumpstart your discord.js bot.
